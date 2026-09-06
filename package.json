@@ -1,0 +1,6 @@
+{
+  "name": "authentiguard-ai-vercel",
+  "version": "1.0.0",
+  "private": true,
+  "description": "🛡️ AI-based product authentication & counterfeit detection — Vercel deployment (frontend + serverless API)"
+}
